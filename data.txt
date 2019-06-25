@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+	<meta http-equiv="Content-Language" content="zh-CN" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+	<meta content="all" name="robots" />
+	<meta name="author" content="锟斤拷瓶锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟缴凤拷锟斤拷锟睫癸拷司" />
+	<meta name="Copyright" content="锟斤拷锟斤拷石锟酵达拷学" />
+	<meta name="description" content="null" />
+	<meta name="keywords" content="锟斤拷锟斤拷锟斤拷" />
+	<meta http-equiv="P3P" content='CP="CAO PSA OUR"' />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<title>锟斤拷校锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟皆★拷锟斤拷强学习锟斤拷锟介交锟斤拷锟斤拷锟斤拷锟斤拷实锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟轿拷锟斤拷饪癸拷谢疃� - 锟斤拷锟斤拷石锟酵达拷学锟斤拷锟斤拷锟斤拷- - 院锟斤拷锟斤拷态</title>
+	<link rel="stylesheet" id="cssLink" href="http://news.nepu.edu.cn/style/news.css" type="text/css" media="all"  />
+	<script language="javascript" src="http://news.nepu.edu.cn/dwr/util.js"></script>
+	<script language="javascript" src="http://news.nepu.edu.cn/dwr/engine.js"></script>
+	<script type="text/javascript" src="http://news.nepu.edu.cn/js/commanFunction.js"></script>
+	<script type="text/javascript" src="http://news.nepu.edu.cn/js/comman.js"></script>
+<script type="text/javascript" src="http://news.nepu.edu.cn/js/commanFunction.js"></script>
+</head>
+	<body>
+	<div id="container" class="body_main">
+	<div id="136982083650954709" class="topframe">
+	<div id="136982083651367602" class="topframe_1">
+	<div id="137231926085795232" class="picChange_137231926085795232" >
+<h3><span>图片锟斤拷锟斤拷</span></h3><bannerad><a id="data_137231926085795232" href="javascript:jump2url137231926085795232()" onMouseOver="displayStatusMsg137231926085795232();return document.returnValue"><img src="http://news.nepu.edu.cn/images/137231931721132777.jpg"  width="984px" height="116px" name="bannerADrotator137231926085795232" tilte="" style="filter:revealTrans(duration=2,transition=20)" border=0></a></bannerad><script>
+ var bannerAD137231926085795232=new Array();
+ var bannerADlink137231926085795232=new Array();
+ var bannerADtitle137231926085795232=new Array();
+ var adNum137231926085795232=0;
+bannerAD137231926085795232[0] = "http://news.nepu.edu.cn/images/137231931721132777.jpg";
+bannerADlink137231926085795232[0] = "#";
+bannerADtitle137231926085795232[0] = "锟斤拷锟斤拷石锟酵达拷学锟斤拷锟斤拷锟斤拷";
+bannerAD137231926085795232[1] = "http://news.nepu.edu.cn/images/137231971030231312.jpg";
+bannerADlink137231926085795232[1] = "#";
+bannerADtitle137231926085795232[1] = "锟斤拷锟斤拷石锟酵达拷学锟斤拷锟斤拷锟斤拷";
+bannerAD137231926085795232[2] = "http://news.nepu.edu.cn/images/137231971779980626.jpg";
+bannerADlink137231926085795232[2] = "#";
+bannerADtitle137231926085795232[2] = "锟斤拷锟斤拷石锟酵达拷学锟斤拷锟斤拷锟斤拷";
+bannerAD137231926085795232[3] = "http://news.nepu.edu.cn/images/137231972984860048.jpg";
+bannerADlink137231926085795232[3] = "#";
+bannerADtitle137231926085795232[3] = "锟斤拷锟斤拷石锟酵达拷学锟斤拷锟斤拷锟斤拷";
+bannerAD137231926085795232[4] = "http://news.nepu.edu.cn/images/137231974347567936.jpg";
+bannerADlink137231926085795232[4] = "#";
+bannerADtitle137231926085795232[4] = "锟斤拷锟斤拷石锟酵达拷学锟斤拷锟斤拷锟斤拷";
+var preloadedimages137231926085795232=new Array(); 
+ for (i=1;i<bannerAD137231926085795232.length;i++){ 
+ 	preloadedimages137231926085795232[i]=new Image(); 
+      	preloadedimages137231926085795232[i].src=bannerAD137231926085795232[i]; 
+ } 
+  
+ function setTransition137231926085795232(){ 
+ if (document.all){ 
+ 	bannerADrotator137231926085795232.filters.revealTrans.Transition=Math.floor(Math.random()*23); 
+ bannerADrotator137231926085795232.filters.revealTrans.apply(); 
+  } 
+ } 
+ function playTransition137231926085795232(){ 
+ 	if (document.all) 
+ 		 bannerADrotator137231926085795232.filters.revealTrans.play(); 
+ } 
+  
+ function nextAd137231926085795232(){ 
+    	if(adNum137231926085795232<bannerAD137231926085795232.length-1)
+ adNum137231926085795232++ ; 
+    	else 
+ adNum137231926085795232=0; 
+    	setTransition137231926085795232(); 
+   	document.images.bannerADrotator137231926085795232.src=bannerAD137231926085795232[adNum137231926085795232]; 
+  document.images.bannerADrotator137231926085795232.title=bannerADtitle137231926085795232[adNum137231926085795232]; 
+ 	playTransition137231926085795232(); 
+    	theTimer=setTimeout('nextAd137231926085795232()', 6 * 1000); 
+ } 
+  
+ function jump2url137231926085795232(){ 
+ 	jumpUrl=bannerADlink137231926085795232[adNum137231926085795232]; 
+ 	jumpTarget="_self"; 
+ 	if (jumpUrl != ''){ 
+ 		if (jumpTarget != '')window.open(jumpUrl,jumpTarget); 
+ 	else location.href=jumpUrl; 
+ 	 } 
+ } 
+ function displayStatusMsg137231926085795232() {  
+ 	status=bannerADlink137231926085795232[adNum137231926085795232]; 
+ 	document.returnValue = true; 
+ } 
+ nextAd137231926085795232();</script></div></div>
+	<div id="136982083651633510" class="topframe_3">
+	<div id="136982083652055678" class="topframe_2">
+	<div id="136982083652089090" class="navigation_136982083652089090" >
+<h3 class="title"><span>
+</span></h3>
+<ul class="nav" id="nav_136982083652089090">
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/default.html" target="_self">
+<span>锟斤拷页</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520202.html" target="_self">
+<span>锟斤拷锟斤拷要锟斤拷</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520205.html" target="_self">
+<span>锟斤拷学锟斤拷锟斤拷</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520204.html" target="_self">
+<span>锟斤拷锟斤拷思锟斤拷</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520208.html" target="_self">
+<span>锟斤拷锟斤拷校园</span></a>
+</li>
+<li class ="current" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520209.html" target="_self">
+<span>院锟斤拷锟斤拷态</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520215.html" target="_self">
+<span>锟斤拷锟斤拷锟斤拷锟斤拷</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520210.html" target="_self">
+<span>媒锟斤拷劢锟�</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520206.html" target="_self">
+<span>锟斤拷锟斤拷锟斤拷锟斤拷</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520211.html" target="_self">
+<span>专锟斤拷锟饺碉拷</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520218.html" target="_self">
+<span>锟竭斤拷锟接碉拷</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520219.html" target="_self">
+<span>锟斤拷锟斤拷学习</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520222.html" target="_self">
+<span>锟斤拷锟解东锟斤拷</span></a>
+</li>
+<li class ="" onMouseMove="chgCode_136982083652089090(this)" onMouseOut="chgCode_136982083652089090(this)">
+<a class="topname"  href="http://news.nepu.edu.cn/type/520220.html" target="_self">
+<span>锟斤拷系锟斤拷锟斤拷</span></a>
+</li>
+</ul>
+<script type="text/javascript">
+function chgCode_136982083652089090(obj) {
+if (obj.className != "current") {
+var root=document.getElementById("nav_136982083652089090");
+for(var i=0;i<root.childNodes.length;i++){
+root.childNodes[i].className ="";
+}
+obj.className = "current"
+}
+}
+</script>
+</div></div>
+	<div id="136982083660017510" class="topframe_4">
+	<div id="136982083660072509" class="urlportlet_136982083660072509" >
+<h3><span>学校锟斤拷页</span></h3><script language="javascript" src="http://news.nepu.edu.cn/dwr/interface/dropNumAjax.js"></script><ul> 
+<li class="urlportlet_li_0"><a class="urlportlet_a_0" href="http://www.nepu.edu.cn" id="136982083661369027" djsl="16" onclick="openlink(this)" title="学校锟斤拷页" target="_blank">	学校锟斤拷页</a></li>
+<script type="text/javascript">function openlink(obj){
+dropNumAjax.urlDropNum(obj.id,obj.djsl);
+}
+</script>
+<script type="text/javascript">
+function showFwpl_136982083660072509(obj){
+var url = "fwplb.jsp?FwId="+obj.id;
+showTopWin(url,800,600,"Y");
+}
+</script>
+<script type="text/javascript">
+function showFwjs_136982083660072509(obj){
+var url = "yzs/fwjs.action?id="+obj.id;
+showTopWin(url,800,600,"Y");
+}
+</script>
+</ul></div></div>
+	</div>
+	</div>
+	<div id="136982083668120063" class="mainframe">
+	<div id="136982083668471670" class="mainframe_1">
+	<div id="136982083668871286" class="mainframe_1_1">
+	<div id="137039682454643208" class="mainframe_1_1_2">
+	<div id="136982083888896877" class="showPlaceNavigate_136982083888896877" >
+<em>锟斤拷锟斤拷位锟矫ｏ拷</em><a href="http://news.nepu.edu.cn/default.html" target="_top">锟斤拷页</a> - <a onclick="openShowPlacelink(this)" href="#" id="http://news.nepu.edu.cn/type/520209.html" target="_top" >院锟斤拷锟斤拷态</a><script type="text/javascript">
+function openShowPlacelink(obj) {
+obj.href = obj.id;
+}
+</script>
+</div></div>
+	<div id="137039738384043210" class="mainframe_1_1_3">
+	<div id="136982083668811597" class="newscontent_136982083668811597" >
+<div class="title">
+<h3>
+锟斤拷校锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟皆★拷锟斤拷强学习锟斤拷锟介交锟斤拷锟斤拷锟斤拷锟斤拷实锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟轿拷锟斤拷饪癸拷谢疃�</h3>
+<h4>
+<span class = "puber">锟斤拷锟斤拷锟剿ｏ拷锟斤拷锟斤拷喜</span><span class = "bm">锟斤拷讯锟斤拷源锟斤拷锟斤拷委锟斤拷锟斤拷锟斤拷锟斤拷统战锟斤拷 </span><span class = "pubtime">锟斤拷锟斤拷时锟戒：2019-04-24 13:25:32</span><span class="fwl">锟斤拷锟斤拷锟斤拷锟�:</span><span class="num" id="newsNum">0</span>
+<script language="javascript" src="http://news.nepu.edu.cn/dwr/interface/dropNumAjax.js"></script>
+<script type="text/javascript">window.onload=new function(){dropNumAjax.newsViewNum("155608357779010888",document.getElementById("newsNum").innerText,function(data){
+if(data){
+document.getElementById("newsNum").innerText=data;
+}
+});
+}
+function openfwpl_155608357779010888(){
+var url="../xwplb.jsp?FwId=155608357779010888&t="+Math.round(Math.random()*100);
+window.location.href=url;
+}
+</script></h4>
+</div>
+<script language="javascript">
+function go() {
+window.open(window.parent.$("yyxwym").value);
+}
+</script>
+<div class="con" id="contentdisplay"><div class="xwcon" id="xwcontentdisplay"><p>锟斤拷锟斤拷锟斤拷通讯员 锟斤拷锟斤拷锟轿ｏ拷锟斤拷学锟斤拷为锟斤拷一锟斤拷强锟斤拷学校锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟节猴拷锟侥伙拷锟斤拷锟借，为同学锟斤拷锟结供锟斤拷锟矫的凤拷锟斤拷锟窖帮拷锟斤拷锟斤拷锟狡教拷锟斤拷锟叫ｏ拷锟秸癸拷私锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷呕锟絃ogo锟斤拷拼锟斤拷锟斤拷锟斤拷锟斤拷芯锟斤拷榻伙拷锟斤拷帷拷锟斤拷锟斤拷锟斤拷锟斤拷械锟斤拷锟斤拷锟斤拷锟斤拷战锟斤拷锟斤拷系锟斤拷锟斤拷锟斤拷疃拷锟�<br/>锟斤拷锟斤拷4锟斤拷14锟斤拷锟斤拷锟界，锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷图锟斤拷锟�11锟斤拷喙︼拷锟斤拷锟斤拷侔锟斤拷恕锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟絃ogo锟斤拷拼锟斤拷锟斤拷锟斤拷锟斤拷舜未锟斤拷锟斤拷锟斤拷锟斤拷械锟斤拷学锟诫工锟斤拷学院锟斤拷锟斤拷锟斤拷锟斤拷师锟斤拷锟斤拷锟斤拷学院锟斤拷锟斤拷锟斤拷锟斤拷师锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷师锟斤拷锟轿此次达拷锟斤拷锟侥斤拷师锟斤拷委锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟杰斤拷师锟斤拷锟斤拷锟斤拷为锟斤拷医锟斤拷锟斤拷司侔锟剿次达拷锟斤拷锟斤拷目锟侥硷拷锟斤拷锟藉，强锟斤拷锟剿斤拷锟斤拷锟斤拷锟斤拷锟斤拷应锟斤拷锟斤拷学校师锟斤拷之锟戒交锟斤拷锟斤拷通锟斤拷锟斤拷锟斤拷锟斤拷纽锟斤拷锟斤拷锟矫ｏ拷锟斤拷锟斤拷私锟斤拷锟斤拷锟斤拷锟斤拷拧锟斤拷锟絆BE锟斤拷锟斤拷为指锟斤拷锟斤拷锟斤拷锟斤拷锟窖э拷锟轿拷锟斤拷摹锟斤拷墓锟斤拷锟剿硷拷搿ｏ拷锟斤拷锟斤拷锟斤拷锟斤拷鸥锟斤拷懦锟斤拷锟窖╋拷锟斤拷锟斤拷锟斤拷吮锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷直锟阶硷拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟绞拷锟斤拷锟斤拷锟狡凤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟绞拷锟斤拷锟斤拷锟狡凤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷委锟斤拷帧锟斤拷锟斤拷锟斤拷然锟斤拷冢锟斤拷锟斤拷锟窖г猴拷啪锟酵拷锟斤拷锟狡凤拷倩锟揭伙拷冉锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷同学锟斤拷锟斤拷品锟劫伙拷锟斤拷冉锟斤拷锟斤拷锟斤拷锟截╋拷锟斤拷锟绞拷锟斤拷锟斤拷锟斤拷同学锟斤拷锟斤拷品锟劫伙拷锟斤拷锟饺斤拷锟斤拷</p><p style="TEXT-ALIGN: center"><img title="1556083796266053711.jpg" alt="图1_鍓湰.jpg" src="http://news.nepu.edu.cn/UserFiles/image/20190424/1556083796266053711.jpg"/></p><p>锟斤拷锟斤拷4锟斤拷20锟斤拷锟斤拷锟界，锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷学院馨锟斤拷锟斤拷锟劫帮拷锟剿匡拷锟叫斤拷锟斤拷锟结，锟斤拷通锟斤拷锟斤拷锟酵斤拷锟斤拷小锟斤拷锟斤拷QQ锟脚斤拷锟斤拷锟斤拷全锟斤拷直锟斤拷锟斤拷锟剿次斤拷锟斤拷锟斤拷锟斤拷萁锟斤拷伪锟斤拷锟斤拷锟叫ｏ拷锟斤拷氡憋拷锟斤拷锟窖э拷锟斤拷锌锟皆猴拷锟斤拷锟叫ｏ拷锟酵э拷锟揭诧拷锟斤拷锟斤拷巍锟斤拷锟斤拷锟斤拷锟接拷锟饺碉拷锟狡成硷拷锟杰高诧拷锟斤拷锟斤拷锟斤拷校锟斤拷同学锟斤拷锟轿憋拷锟斤拷为锟斤拷曳锟斤拷锟斤拷锟斤拷锟斤拷堑目锟斤拷锟斤拷锟铰凤拷锟斤拷獭锟斤拷锟较帮拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷医锟斤拷锟斤拷萍锟斤拷锟较帮拷锟斤拷稀锟斤拷锟斤拷锟饺ｏ拷锟斤拷锟斤拷锟斤拷壹岫拷锟斤拷模锟轿拷锟斤拷锟阶硷拷锟斤拷锟斤拷械锟酵э拷锟斤拷峁╋拷锟斤拷锟街革拷锟斤拷锟斤拷诖锟斤拷苫锟斤拷锟斤拷校锟斤拷伪锟斤拷腔锟斤拷锟斤拷锟斤拷牡锟斤拷锟酵э拷锟斤拷锟斤拷锟侥革拷锟斤拷锟斤拷锟解，锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷细锟斤拷锟斤拷殖锟斤拷约锟絈Q锟斤拷锟较伙拷锟斤拷锟斤拷围锟斤拷跃锟斤拷锟斤拷锟解，为锟剿筹拷值锟斤拷锟酵э拷枪锟阶拷锟斤拷平锟窖э拷幕锟斤拷锟斤拷裕锟斤拷锟叫э拷锟斤拷锟窖э拷锟斤拷锟斤拷锟斤拷学锟斤拷锟斤拷锟斤拷锟斤拷锟矫ｏ拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟剿讹拷锟斤拷石锟酵达拷学锟斤拷锟斤拷锟斤拷锟斤拷一锟斤拷锟斤拷械锟斤拷锟斤拷锟斤拷锟斤拷战锟斤拷锟斤拷目前锟筋动锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷小锟�<br/>锟斤拷锟斤拷通锟斤拷系锟叫活动锟侥匡拷展锟斤拷锟斤拷锟斤拷锟斤拷同学锟斤拷锟斤拷学习锟斤拷实锟斤拷锟斤拷锟斤拷锟叫凤拷锟斤拷锟饺凤拷锟斤拷锟结供锟剿革拷锟斤拷幕锟斤拷锟斤拷平台锟斤拷锟斤拷锟斤拷胤锟斤拷锟斤拷私锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟脚︼拷锟斤拷锟斤拷锟斤拷谩锟斤拷锟襟，斤拷锟斤拷锟斤拷锟斤拷锟脚斤拷锟结彻锟斤拷实锟斤拷时锟斤拷全锟斤拷锟竭碉拷学校锟斤拷锟狡斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟介精锟斤拷锟窖ｏ拷锟揭伙拷蔚锟斤拷锟斤拷峋拷锟轿э拷锟窖ｏ拷锟斤拷锟揭伙拷锟斤拷锟斤拷平锟斤拷锟斤拷锟侥匡拷辏拷锟斤拷锟斤拷锟斤拷雍锟窖э拷锟斤拷锟斤拷锟斤拷学锟斤拷锟斤拷锟斤拷锟斤拷谩锟�<br/></p></div></div>
+<div class="bar">
+<button onclick=javascript:window.opener=null;window.close();> 锟斤拷 锟斤拷 </button>
+</div>
+</div></div>
+	</div>
+	<div id="136982083676329592" class="mainframe_1_2">
+	</div>
+	</div>
+	<div id="136982083676565267" class="mainframe_2">
+	<div id="136982083676756640" class="mainframe_2_1">
+	<div id="136982083676747797" class="WebsiteSearch_136982083676747797" >
+<h3><span>锟斤拷锟斤拷锟斤拷</span><a href=""></a></h3><dl>
+
+<dt>
+
+
+<span class="gjz"><label>锟斤拷锟斤拷锟斤拷丶锟斤拷锟�</label><input onkeydown="if(event.keyCode == 13)searchnews()" type="text" name="query" id="query" value="" maxlength=""></span> <span class="lanm"><label>锟斤拷目</label><select id="lmdm">
+<option value="">全锟斤拷</option>
+</select></span></dt>
+<dd><button id="search" onclick="searchnews()">锟斤拷锟斤拷</button>
+</dd>
+<input type="hidden" id="RsCount" value=""/>
+</dl>
+<script type="text/javascript">
+window.onload=new function(){
+var ele = document.getElementById("lmdm");var xmlDoc = loadConfigXml("http://news.nepu.edu.cn/xml/newstype_5202.xml");
+var i = 0;
+var allele = "";
+var allnode = xmlDoc.selectNodes("list/lmlist");
+var text="";var value="";
+for(i=0;i<allnode.length;i++) {
+if(typeof window.ActiveXObject != 'undefined'){
+text = allnode[i].selectSingleNode("lmmc").text;
+value = allnode[i].selectSingleNode("lmdm").text;
+}else{
+text = allnode[i].selectSingleNode("lmmc/text()").nodeValue;
+value = allnode[i].selectSingleNode("lmdm/text()").nodeValue;
+}if(text != "") {
+ele.options[ele.options.length] = new Option(text , value);
+allele += value +",";
+}
+}
+allele = KillCharValue(allele,',');
+ele.options[0].value = allele;
+}
+function searchnews() {
+if(document.getElementById("query").value != "" || document.getElementById("lmdm").value != "") {
+window.open("http://news.nepu.edu.cn/search.html?query="+escape(escape(document.getElementById("query").value))+"&lmdm="+escape(escape(document.getElementById("lmdm").value)));
+} else {
+return false;
+}
+}
+</script>
+</div></div>
+	<div id="136982083684240572" class="mainframe_2_2">
+	</div>
+	</div>
+	</div>
+	<div id="136982083684476578" class="botframe">
+	<div id="136982083702027218" class="botframe_1">
+	<div id="136982083702016482" class="textdisplay_136982083702016482" >
+<div class="con"><p>锟斤拷权锟斤拷锟斤拷&copy; 锟斤拷锟斤拷石锟酵达拷学 | 锟斤拷址锟斤拷锟斤拷锟斤拷锟斤拷省锟斤拷锟斤拷锟叫革拷锟铰硷拷锟斤拷锟斤拷业锟斤拷锟斤拷锟斤拷学锟斤拷锟斤拷99锟斤拷 |&nbsp; 锟斤拷锟斤拷锟斤拷锟诫：163318 &nbsp;|&nbsp; 锟斤拷ICP锟斤拷05008405</p>
+<p>锟斤拷锟斤拷支锟街ｏ拷锟街达拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷&nbsp; | 投锟斤拷锟斤拷锟戒：<a href="mailto:xcb01@nepu.edu.cn">xcb01@nepu.edu.cn</a></p></div>
+</div></div>
+	</div>
+	<div id="136982083709598099" class="otherframe">
+	</div>
+	</div>
+	</body>
+	
+</html>

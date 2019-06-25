@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="./axios.js"></script>
+	<script type="text/javascript" src="./vue.js"></script>
+	<title>后台</title>
+</head>
+<body>
+	<h2>后台服务器</h2>
+	<div id="root">
+		<div>timeStamp:{{timeStamp}}</div>
+		<div @click='getStartTime()'>获取startStamp</div>
+		<div>开始日期{{startDate}}</div>
+		<div @click='getWeekNum()'>本周周次:{{nowWeekNum}}</div>
+
+		<input type="" name="" v-model="inputWeekNum">
+		<div @click="uploadWeekNum()">上传本周周次</div>
+	</div>
+</body>
+<script type="text/javascript">
+
+	var vm = new Vue({
+		el: '#root',
+		data: {
+			timeStamp: '',
+			inputWeekNum: '',
+			inputStamp: '',
+			startDate: '',
+			nowWeekNum: ''
+		},
+		methods: {
+			getNowWeekBeginStamp(){
+				let nowDate = new Date();
+				let Year = nowDate.getYear() + 1900;
+				let Month = nowDate.getMonth()+1;
+				let date = nowDate.getDate();
+				let dateStr = Year+'-'+Month+'-'+date
+				console.log(dateStr)
+				let stamp = (new Date(dateStr)).getTime();
+				let weekDay = (new Date(dateStr)).getDay();
+				stamp = stamp - (weekDay - 1) * 24 * 60 * 60 * 1000;
+				return stamp;
+			},
+			uploadWeekNum(){
+				let that = this;/*
+				let nowDate = new Date();
+				let Year = nowDate.getYear() + 1900;
+				let Month = nowDate.getMonth()+1;
+				let date = nowDate.getDate();
+				let dateStr = Year+'-'+Month+'-'+date
+				console.log(dateStr)
+				let stamp = (new Date(dateStr)).getTime();
+				let weekDay = (new Date(dateStr)).getDay();
+				stamp = stamp - (weekDay - 1) * 24 * 60 * 60 * 1000;*/
+				stamp = this.getNowWeekBeginStamp();
+				stamp = stamp - (this.inputWeekNum - 1) * 24 * 60 * 60 * 1000 * 7;
+				this.inputStamp = stamp;
+				that.setStartTime().then(res => {
+
+					console.log(res)
+					if(res.err){
+
+					}else{
+
+					}
+				})
+			},
+			setStartTime(){
+				let that = this;
+				return new Promise(resolve => {
+					axios.get('/setStartTime?timeStamp='+that.inputStamp).then(res => {
+						resolve(res.data)
+					})	
+				})
+			},
+			getStartTime(){
+				let that = this;
+				axios.get('/getStartTime').then(res => {
+				console.log(res)
+					try{
+						let timeStamp = res.data.res.startTime;
+						let startDate = new Date(parseInt(timeStamp)).toLocaleString();
+						stamp = this.getNowWeekBeginStamp();
+						let nowWeekNum = (stamp - timeStamp) / (24*60*60*1000*7) + 1
+						that.startDate = startDate;
+						that.nowWeekNum =  nowWeekNum;
+						that.timeStamp = timeStamp;
+					}catch(e){
+						console.log(e)
+						that.timeStamp = ''
+					}
+				})	
+			},
+			getWeekNum(){
+
+			},
+
+		}
+	})
+
+
+
+	var timeStamp = '';
+
+</script>
+
+</html>

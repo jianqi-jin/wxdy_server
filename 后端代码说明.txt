@@ -1,0 +1,5 @@
+在根目录使用 npm start 启动
+需要提前安装mysql
+需要配置mysql账号密码
+我的密码[user: root][psw: jin7422373]
+附一份sql文件，导入mysql中即可
