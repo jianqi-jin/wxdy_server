@@ -1,7 +1,7 @@
 
-const xnId = '2018-2019-2';
+const xnId = '2019-2020-1';
+//const serverUri = 'https://nepu.fun:3001/';
 const serverUri = 'https://127.0.0.1:3001/';
-
 //我的库
 var axios = require('axios')
 const Entities = require('html-entities').XmlEntities
@@ -49,17 +49,17 @@ function getBanner(page){
         banner: [
             {
                 id: 123,
-                imgUrl: "https://127.0.0.1:3001/images/banner/banne1.png",
+                imgUrl: serverUri+"images/banner/banne1.png",
                 title: "东北banner1"
             },
             {
                 id: 123,
-                imgUrl: "https://127.0.0.1:3001/images/banner/banne1.png",
+                imgUrl: serverUri+"images/banner/banne1.png",
                 title: "东北banner1"
             },
             {
                 id: 123,
-                imgUrl: "https://127.0.0.1:3001/images/banner/banne1.png",
+                imgUrl: serverUri+"images/banner/banne1.png",
                 title: "东北banner1"
             }
         ]

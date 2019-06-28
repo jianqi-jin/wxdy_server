@@ -18,8 +18,8 @@ var fs = require('fs');
 * 设置https文件
 */
 
-var privateKey  = fs.readFileSync('./certificate/private.pem', 'utf8');
-var certificate = fs.readFileSync( './certificate/ca.cer', 'utf8');
+var privateKey  = fs.readFileSync('./certificate/private.key', 'utf8');
+var certificate = fs.readFileSync( './certificate/ca.pem', 'utf8');
 var credentials = {key: privateKey, cert: certificate};
 
 //创建https服务器
